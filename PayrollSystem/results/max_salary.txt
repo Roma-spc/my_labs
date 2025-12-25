@@ -1,0 +1,4 @@
+id: 1
+name: Roman
+position: Backend Developer
+hourly rate: 15
